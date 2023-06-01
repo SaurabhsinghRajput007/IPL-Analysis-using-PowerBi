@@ -1,5 +1,5 @@
 # IPL-Analysis-using-PowerBi
-nsights 📊:
+Insights 📊:
 🏏 The most successful teams were Mumbai Indians, Chennai Super Kings, and Kolkata Knight Riders.
 
 🏏 The most successful players are Virat Kohli, S. Raina, and R. Sharma as hitters, while L. Malinga, A. Mishra and Harbhajan Singh dominate the stats as bowlers.
